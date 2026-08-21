@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ibevishal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ibevishal/LeetCode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/ibevishal/LeetCode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/ibevishal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ibevishal/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ibevishal/LeetCode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/ibevishal/LeetCode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/ibevishal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ibevishal/LeetCode/tree/master/0414-third-maximum-number) |
 ## String
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ibevishal/LeetCode/tree/master/0013-roman-to-integer) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ibevishal/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ibevishal/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ibevishal/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
