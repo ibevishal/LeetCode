@@ -15,10 +15,8 @@ class Solution(object):
                     break
             index += 1
             k += 1
-
         fin = 0
         for i in arr:
             if len(i) > fin:
                 fin = len(i)
-
         return fin
